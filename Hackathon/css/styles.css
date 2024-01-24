@@ -7,7 +7,7 @@
 
   body {
     height: 100vh;
-    background-image: url('https://e0.pxfuel.com/wallpapers/684/683/desktop-wallpaper-windows-7-live-cloudy-sky-sky-clouds-teahub-io-windows-cloud.jpg ');  
+    /* background-image: url('https://e0.pxfuel.com/wallpapers/684/683/desktop-wallpaper-windows-7-live-cloudy-sky-sky-clouds-teahub-io-windows-cloud.jpg ');   */
   }
 
   @font-face {
@@ -73,3 +73,118 @@
     font-display: swap;
     src: url(https://assets.oneweb.mercedes-benz.com/plugin/workbench/fonts/2.1.0/WOFF/Hanyi-Ext.woff) format("woff")
 }
+
+.start {
+    background-image: url('/assets/images/01_start.jpg');
+    
+    padding: 5rem 1rem;
+}
+h2, h3, {
+    margin-top: 12em;
+    margin
+
+}
+h2 {padding: 150 px;
+    margin: 150 px;
+    font-size: xxx-large;
+    font-weight: 50;}
+
+img {
+    width: 45%;
+    height: 45%;
+
+}
+.Responsibility, .futuremobility, .exclusive, .milestones, .vehicles {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.futuremobility 
+        {align-items: end;
+        margin-top: -30em;
+        }
+
+.milestones 
+        {align-items: end;
+        margin-top: -36em;
+        }
+
+.vehicles {
+    margin-top: 12em;
+    margin-bottom: 12em;
+    
+}
+
+
+.inspired {background-color: black;
+                color: white;
+}
+.inspired img {
+    margin-top: -8rem;
+    width: 45%; 
+    height: auto; 
+    margin-left: 40rem; 
+}
+.inspired figcaption {
+    margin-left: 40rem;
+}
+
+.inspired p {
+    margin: 4rem;
+}
+ .inspired h4 {
+    margin-top: 8rem;
+    margin-left: 4rem;
+    font-size: xxx-large;
+   }
+
+
+#intDes {
+    margin-right: 50rem;
+    margin-bottom: -1em;
+}
+
+
+   button {
+
+    margin: 4rem;
+    padding: 15px 45px;
+    font-size: larger;  
+    border-radius: 40px;
+   }
+
+
+.follow h5 {
+    display: flex;
+    justify-content: center;
+    margin: 5rem;
+    font-size: xx-large;
+    font-weight: lighter;
+
+    margin-bottom: 10px;
+    
+}
+
+.follow img {
+    width: 32px;
+    height: 32px;
+    margin: 30px;
+    align-self: center;
+}
+
+ul li { list-style-type:none; } 
+
+.purchase {
+    background-color: black;
+    color: white;
+    padding: 6rem;
+    list-style: none;
+
+}
+li {margin-left: 30rem;
+
+}
+
+
+
